@@ -1,0 +1,12 @@
+{
+  "name": "speechpush",
+  "short_name": "spush",
+  "icons": [{
+    "src": "img/icon256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
+  "start_url": "https://cachewechat.github.io/speechpush/",
+  "display": "standalone",
+  "gcm_sender_id": "139066394068",
+}
